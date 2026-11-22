@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Amira Haynes
+- GitHub username: ahaynes111
+- Project title: Spend: Grocery Budget and Shopping Tracker
+- Application purpose: This application will help users create grocery budgets, organize shopping lists, track grocery purchases, and calculate their total spending.
 
 ## How to Run the Application
 
